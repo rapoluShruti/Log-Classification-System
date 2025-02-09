@@ -76,3 +76,6 @@ Upload a CSV file containing logs to the FastAPI endpoint for classification. En
 The output will be a CSV file with an additional column `target_label`, which represents the classified label for each log entry.
 
 ---
+```markdown
+You can view the full Jupyter notebook in the [Log-Classification-System
+/training/log_classification.ipynb](training/log_classification.ipynb) file.
